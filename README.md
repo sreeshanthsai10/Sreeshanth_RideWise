@@ -29,6 +29,7 @@ Bike-app/
 ├── Bikeapp.py         # The main Streamlit application script.
 ├── README.md          # This file.
 └── requirements.txt   # Lists all Python dependencies.
+
 ⚙️ Installation and Setup
 Follow these steps to get a copy of the project running on your local machine.
 
@@ -47,13 +48,13 @@ It's best practice to install dependencies in a virtual environment to avoid con
 
 Bash
 
-# Create the environment
+Create the environment
 python -m venv venv
 
-# Activate the environment
-# On Windows (PowerShell):
+ Activate the environment
+ On Windows (PowerShell):
 .\venv\Scripts\Activate
-# On Mac/Linux:
+ On Mac/Linux:
 source venv/bin/activate
 3. Install Dependencies
 Install all required Python packages listed in requirements.txt:
@@ -87,6 +88,6 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 📧 Contact
-Sreeshanth Sai – Your GitHub Username – your.email@example.com
+Sreeshanth Sai – sreeshanthsai10@gmail.com
 
 Project Link: https://github.com/sreeshanthsai10/Sreeshanth_RideWise
