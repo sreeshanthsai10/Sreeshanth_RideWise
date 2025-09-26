@@ -42,7 +42,6 @@ Bash
 
 git clone https://github.com/sreeshanthsai10/Sreeshanth_RideWise.git
 cd Sreeshanth_RideWise
-
 2. Create a Virtual Environment
 It's best practice to install dependencies in a virtual environment to avoid conflicts.
 
@@ -54,17 +53,19 @@ python -m venv venv
 # Activate the environment
 # On Windows (PowerShell):
 .\venv\Scripts\Activate
-
 # On Mac/Linux:
 source venv/bin/activate
 3. Install Dependencies
 Install all required Python packages listed in requirements.txt:
-Bash
-pip install -r requirements.txt
 
+Bash
+
+pip install -r requirements.txt
 4. Run the Application
 Start the Streamlit application from your terminal:
+
 Bash
+
 streamlit run Bikeapp.py
 The application will automatically open in your web browser, typically at http://localhost:8501.
 
@@ -86,6 +87,6 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 📧 Contact
-Sreeshanth Sai – sreeshanthsai10@example.com
+Sreeshanth Sai – Your GitHub Username – your.email@example.com
 
 Project Link: https://github.com/sreeshanthsai10/Sreeshanth_RideWise
